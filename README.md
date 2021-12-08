@@ -1,27 +1,27 @@
-# ProEventos - Curso da Udemy
+# To Do List - Dotnet Core + Entity Framework + Angular
+
+Este projeto é fruto de um estudo utilizando as tecnologias .Net, Entity Framework e Angular 
+
+Este projeto é originário da aplicação ProEventos e foi clonado do seguinte [repositório](https://github.com/vsandrade/ProEventos/commits/master) e adaptado para a criação da To Do List;
+
+Foi utilizada a entidade de eventos para Manter as atividades,TO DO's, configurando conforme a necessidade a obrigatoriedade dos atributos;
+
+- Este projeto possui fins didáticos;
+
+Pre requisitos:
+ - Anular CLI;
+ - .Net 6;
+ - 
+
+## Backend Dotnet
+
+Para startar a aplicação acesse no terminal a Back\src\ProEventos.API e utilize o comando dotnet watch run;
+
+## Frontend Angular:
+
+utilize o comando npm install para realizar o download dos pacotes e linkara s dependencias caso necessário;
+
+Para startar a aplicação acesse no terminal a Front\ProEventos-App e utilize o comando ng serve;
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
