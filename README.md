@@ -11,7 +11,8 @@ Foi utilizada a entidade de eventos para Manter as atividades,TO DO's, configura
 Pre requisitos:
  - Anular CLI;
  - .Net 6;
- - 
+ - DB Browser for SQLite
+
 
 ## Backend Dotnet
 
