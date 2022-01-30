@@ -9,7 +9,7 @@ Foi utilizada a entidade de eventos para Manter as atividades,TO DO's, configura
 - Este projeto possui fins didáticos;
 
 Pre requisitos:
- - Anular CLI;
+ - Angular CLI;
  - .Net 6;
  - DB Browser for SQLite
 
@@ -20,7 +20,7 @@ Para startar a aplicação acesse no terminal a Back\src\ProEventos.API e utiliz
 
 ## Frontend Angular:
 
-utilize o comando npm install para realizar o download dos pacotes e linkara s dependencias caso necessário;
+utilize o comando npm install para realizar o download dos pacotes e linkar as dependencias;
 
 Para startar a aplicação acesse no terminal a Front\ProEventos-App e utilize o comando ng serve;
 
